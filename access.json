@@ -1,0 +1,7 @@
+{
+  "user" : 1,
+  "moderator" : 2,
+  "admin" : 3,
+  "superadmin" : 4,
+  "root" : 5
+}
