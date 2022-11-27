@@ -1,6 +1,6 @@
 {
   "user" : 1,
-  "moderator" : 2,
+  "president" : 2,
   "admin" : 3,
   "superadmin" : 4,
   "root" : 5
