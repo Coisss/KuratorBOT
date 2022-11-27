@@ -33,6 +33,6 @@ def Start():
 
 
 
-    LEGION = "MTA0MzkwMTA3ODc1Mzc4Nzk0NQ.GGl46i.brZ6O1EpIfq911fJFqukqGSlTQNjkQDR-rDoEc"
-    KuratorBOT = "MTA0MzkwMTA3ODc1Mzc4Nzk0NQ.GGl46i.brZ6O1EpIfq911fJFqukqGSlTQNjkQDR-rDoEc"
+    LEGION = ""
+    KuratorBOT = ""
     bot.run(KuratorBOT)
